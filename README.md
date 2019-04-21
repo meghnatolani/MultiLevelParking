@@ -27,6 +27,7 @@ And Bikes will be parked from parking space 6, 5, 7 and so on.
 Hence in a parking lot, there can be 20 cars and 50 bikes.
 9. If there is a VIP in vehicle, there will be no stacking done. There would be just one bike/car in that parking space.
 
+<pre>
 Input Sample :
 OUT CAR KA-50-19-1
 IN CAR GJ-40-05-2 NOT 46
@@ -50,3 +51,4 @@ ENTRY : BIKE KA-50-19-7 Parking Lot : 0 Parking Space : 6
 ENTRY : CAR GJ-40-05-8 Parking Lot : 0 Parking Space : 20
 ENTRY : CAR GJ-40-05-9 Parking Lot : 0 Parking Space : 11
 ENTRY : CAR KA-50-19-10 Parking Lot : 0 Parking Space : 11
+</pre>
