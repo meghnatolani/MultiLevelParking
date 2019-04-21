@@ -1,5 +1,8 @@
 package model;
 
+/**@author Meghna Tolani
+ * FixedStack : Data structure for stacking vehicles in a parking space.
+ * */
 public class FixedStack<E>
 {
     private E[] stack;
