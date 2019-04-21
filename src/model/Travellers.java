@@ -1,5 +1,9 @@
 package model;
 
+/**@author Meghna Tolani
+ * Travellers : Travellers in a vehicle. Age parameter takes the age of the oldest person, and royal parameter represents if VIP or not.
+ * */
+
 public class Travellers {
 
     private Integer age;
