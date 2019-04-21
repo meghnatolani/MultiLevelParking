@@ -1,5 +1,9 @@
 package model;
 
+/**@author Meghna Tolani
+ * Vehicle : Represents vehicle being parked at a parking space could be of type Car or Bike
+ * */
+
 public class Vehicle {
 
     private Travellers travellers;
