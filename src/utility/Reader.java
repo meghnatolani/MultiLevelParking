@@ -8,6 +8,10 @@ import java.io.File;
 import java.io.FileReader;
 import java.util.Scanner;
 
+/**@author Meghna Tolani
+ * Reader : Utility class which asks for number of leves of parking and reads input from input.txt
+ * */
+
 public class Reader {
 
     MultiLevelParkingService multiLevelParkingService = new MultiLevelParkingServiceImpl();
