@@ -2,6 +2,10 @@ package model;
 
 import java.util.LinkedHashMap;
 
+/**@author Meghna Tolani
+ * MultiLevelLot : Represents N levels of parking
+ * */
+
 public class MultiLevelLot {
 
     private static MultiLevelLot multiLevelLot = null;
