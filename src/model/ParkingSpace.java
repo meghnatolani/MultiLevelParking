@@ -1,5 +1,10 @@
 package model;
 
+
+/**@author Meghna Tolani
+ * ParkingSpace : Represents one parking space in a parking lot
+ * */
+
 public class ParkingSpace {
 
     private FixedStack<Vehicle> vehicles;
