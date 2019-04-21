@@ -2,6 +2,10 @@ package model;
 
 import java.util.HashMap;
 
+/**@author Meghna Tolani
+ * ParkingLot : Represents one parking lot
+ * */
+
 public class ParkingLot {
 
     private Integer id;
