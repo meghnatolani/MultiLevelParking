@@ -4,11 +4,13 @@ Description :
 Design a multi level vehicle parking system which among other
 features, gives a parking slot number for a given vehicle intending to park.
 
-[Parking Lot Design]
+View of Parking Lot with slot numbers
 <pre>
 1  2  3  4  5
+---->----->---  
 10 9  8  7  6
 11 12 13 14 15 
+--<----<------
 20 19 18 17 16
 </pre>
 
